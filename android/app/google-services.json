@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451089978520",
+    "project_id": "upix-b96aa",
+    "storage_bucket": "upix-b96aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451089978520:android:6afdb73f3f831c5c82eced",
+        "android_client_info": {
+          "package_name": "com.example.upix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ZyEbxBiWvAOOTPM5eTSnjCC5DmmB_ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
